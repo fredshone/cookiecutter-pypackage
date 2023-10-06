@@ -25,7 +25,7 @@ The list is not exhaustive as many changes have been made.
 
 ### Added
 
-- GitHub actions that rely on [City Modelling Lab reusable actions](https://github.com/fredshone/actions).
+- GitHub actions that rely on [reusable actions](https://github.com/fredshone/actions).
 - Schema for Cookiecutter input argument config (in `cookiecutter.json`) + tests added to CI to validate the config and the schema itself.
 - Templates for different types of GitHub issues.
 - Cookiecutter contributing guidelines and changelog.
