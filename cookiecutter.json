@@ -3,7 +3,7 @@
   "email": "fredjshone@gmail.com",
   "github_username": "fredshone",
   "repository_owner": "fredshone",
-  "project_title": "Some excing new project name",
+  "project_title": "Exciting new project name",
   "repository_name": "{{ cookiecutter.project_title.lower().replace(' ', '_').replace('-', '_') }}",
   "package_name": "{{ cookiecutter.repository_name }}",
   "module_name": "{{ cookiecutter.repository_name }}",
