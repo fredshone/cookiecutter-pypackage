@@ -1,12 +1,12 @@
-# Arup Cookiecutter Python Package Template
+# Cookiecutter Python Package Template
 
-[![Daily CI Build](https://github.com/arup-group/cookiecutter-pypackage/actions/workflows/daily-scheduled-ci.yml/badge.svg)](https://github.com/arup-group/cookiecutter-pypackage/actions/workflows/daily-scheduled-ci.yml)
-[![Documentation](https://github.com/arup-group/cookiecutter-pypackage/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://arup-group.github.io/cookiecutter-pypackage)
+[![Daily CI Build](https://github.com/fredshone/cookiecutter-pypackage/actions/workflows/daily-scheduled-ci.yml/badge.svg)](https://github.com/fredshone/cookiecutter-pypackage/actions/workflows/daily-scheduled-ci.yml)
+[![Documentation](https://github.com/fredshone/cookiecutter-pypackage/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://fredshone.github.io/cookiecutter-pypackage)
 
-[Cookiecutter] template for an Arup Python package.
+[Cookiecutter] template for an Python package.
 
 This template is based on [@audreyfeldroy's original cookiecutter template](https://github.com/audreyfeldroy/cookiecutter-pypackage).
-It has been updated to use latest Python Package best practices and to align with [Arup's City Modelling Lab Python projects](https://github.com/search?q=topic%3Acml+org%3Aarup-group&type=repositories).
+
 ## Features
 
 * Testing setup with [pytest].
@@ -37,7 +37,7 @@ Generate a local Python package project in a directory of your choice (change `m
 
 ``` bash
     cd my-repositories
-    cruft create https://github.com/arup-group/cookiecutter-pypackage
+    cruft create https://github.com/fredshone/cookiecutter-pypackage
 ```
 
 [cruft]: https://cruft.github.io/cruft/
@@ -47,7 +47,7 @@ Then:
 * Add the packages you will need for your project and their versions to `requirements/base.txt`.
 * initialise your project as a git repository and link it to an online repository.
 
-For more details, see the [tutorial](https://arup-group.github.io/cookiecutter-pypackage/latest/tutorial).
+For more details, see the [tutorial](https://fredshone.github.io/cookiecutter-pypackage/latest/tutorial).
 
 ### Keeping your project up-to-date
 
@@ -68,9 +68,9 @@ To apply updates:
 
 Don't worry, you have options:
 
-### Other Arup Cookiecutter Templates
+### Other Cookiecutter Templates
 
-There are currently no other Arup cookiecutter templates.
+There are currently no other cookiecutter templates.
 
 ### Other Cookiecutter Templates
 
@@ -81,7 +81,7 @@ You can find a list of other Python project templates on the parent template rep
 If you have differences in your preferred setup, you can fork this to create your own version.
 Or you create your own; it doesn't strictly have to be a fork.
 
-* Once you have your own version working, add it to the [Other Arup Cookiecutter Templates](#other-arup-cookiecutter-templates) list above with a brief description.
+* Once you have your own version working, add it to the [Other Cookiecutter Templates](#other-cookiecutter-templates) list above with a brief description.
 
 * It's up to you whether or not to rename your fork/own version. Do whatever you think sounds good.
 

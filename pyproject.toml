@@ -50,7 +50,7 @@ include = []
 [project]
 keywords = ['cookiecutter', 'template', 'package']
 name = "cookiecutter-pypackage"
-authors = [{ name = "Bryn Pickering", email = "bryn.pickering@arup.com" }]
+authors = [{ name = "Fred Shone", email = "fredjshone@gmail.com" }]
 maintainers = []
 description = 'Cookiecutter template for a Python package'
 readme = "README.md"
@@ -75,6 +75,6 @@ version = "0.1.0"
 dependencies = { file = ["requirements/dev.txt"] }
 
 [project.urls]
-repository = "https://github.com/arup-group/cookiecutter-pypackage"
-documentation = "https://arup-group.github.io/cookiecutter-pypackage"
-changelog = "https://github.com/arup-group/cookiecutter-pypackage/blob/main/CHANGELOG.md"
+repository = "https://github.com/fredshone/cookiecutter-pypackage"
+documentation = "https://fredshone.github.io/cookiecutter-pypackage"
+changelog = "https://github.com/fredshone/cookiecutter-pypackage/blob/main/CHANGELOG.md"

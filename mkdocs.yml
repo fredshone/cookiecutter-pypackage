@@ -1,4 +1,4 @@
-site_name: Arup Cookiecutter Python Package
+site_name: Cookiecutter Python Package
 nav:
   - Home: README.md
   - Getting Started: tutorial.md
@@ -9,7 +9,7 @@ theme:
   name: material
   features:
     - navigation.indexes
-repo_url: https://github.com/arup-group/cookiecutter-pypackage
+repo_url: https://github.com/fredshone/cookiecutter-pypackage
 site_dir: .docs
 markdown_extensions:
   - admonition

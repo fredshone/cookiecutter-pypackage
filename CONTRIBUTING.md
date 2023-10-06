@@ -11,15 +11,15 @@ You can contribute in many ways:
 
 __Is something not working?__
 
-[:material-bug: Report a bug](https://github.com/arup-group/cookiecutter-pypackage/issues/new?template=BUG-REPORT.yml "Report a bug in the template by creating an issue and a reproduction"){ .md-button }
+[:material-bug: Report a bug](https://github.com/fredshone/cookiecutter-pypackage/issues/new?template=BUG-REPORT.yml "Report a bug in the template by creating an issue and a reproduction"){ .md-button }
 
 __Missing information in our docs?__
 
-[:material-file-document: Report a docs issue](https://github.com/arup-group/cookiecutter-pypackage/issues/new?template=DOCS.yml "Report missing information or potential inconsistencies in our documentation"){ .md-button }
+[:material-file-document: Report a docs issue](https://github.com/fredshone/cookiecutter-pypackage/issues/new?template=DOCS.yml "Report missing information or potential inconsistencies in our documentation"){ .md-button }
 
 __Want to submit an idea?__
 
-[:material-lightbulb-on: Request a change](https://github.com/arup-group/cookiecutter-pypackage/issues/new?template=FEATURE-REQUEST.yml "Propose a change or feature request or suggest an improvement"){ .md-button }
+[:material-lightbulb-on: Request a change](https://github.com/fredshone/cookiecutter-pypackage/issues/new?template=FEATURE-REQUEST.yml "Propose a change or feature request or suggest an improvement"){ .md-button }
 
 ### Fix Bugs
 
@@ -35,7 +35,7 @@ Cookiecutter PyPackage could always use more documentation, whether as part of t
 
 ### Submit Feedback
 
-The best way to send feedback is to file an [issue](https://github.com/arup-group/cookiecutter-pypackage/issues) or [start a discussion](https://github.com/arup-group/cookiecutter-pypackage/discussions).
+The best way to send feedback is to file an [issue](https://github.com/fredshone/cookiecutter-pypackage/issues) or [start a discussion](https://github.com/fredshone/cookiecutter-pypackage/discussions).
 
 If you are proposing a new feature:
 
