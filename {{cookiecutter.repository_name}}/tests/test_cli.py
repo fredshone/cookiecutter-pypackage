@@ -6,7 +6,7 @@ from {{ cookiecutter.module_name }} import cli
 
 
 def test_command_line_interface():
-    """Test the CLI."""
+    """Example test the CLI."""
     runner = CliRunner()
     result = runner.invoke(cli.cli)
     assert result.exit_code == 0
