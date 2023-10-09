@@ -9,7 +9,7 @@ from click.testing import CliRunner
 @pytest.fixture
 def install_baked(bash):
     def _install_baked(dirpath: Path):
-        bash.send(f"pip install --dry-run '{dirpath.as_posix()}'")
+        bash.send(f"pip3 install --dry-run '{dirpath.as_posix()}'")
 
     return _install_baked
 
@@ -36,7 +36,7 @@ def test_bake_with_defaults(default_bake, install_baked):
 def test_bake_with_defaults_top_level_files(default_bake):
     found_toplevel_files = [i.name for i in default_bake.project_path.iterdir()]
     assert "pyproject.toml" in found_toplevel_files
-    assert "python_boilerplate" in found_toplevel_files
+    assert "exciting_new_project_name" in found_toplevel_files
     assert "mkdocs.yml" in found_toplevel_files
     assert "tests" in found_toplevel_files
 
